@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Yizhen2's test](README.md)
+* [What is MyProduct?](README.md)
 
 ## Guides
 
